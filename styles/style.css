@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+*{
+    font-family: "Manrope", sans-serif;
+    box-sizing: border-box;
+}
+.manrope-font{
+    font-family: "Manrope", sans-serif;
+}
